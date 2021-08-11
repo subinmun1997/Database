@@ -108,7 +108,7 @@
  
 ## 4. 데이터 모델링의 3단계 진행
 
-    ![sqlp1](https://user-images.githubusercontent.com/52366841/128974311-935dcbe6-0eb3-4cd2-ad37-4fb343accd69.PNG)
+![sqlp1](https://user-images.githubusercontent.com/52366841/128974311-935dcbe6-0eb3-4cd2-ad37-4fb343accd69.PNG)
     
  
 
