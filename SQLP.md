@@ -94,7 +94,7 @@
  
    1. 중복 (Duplication)
    
-      데이터베이스가 여러 장소에 같은 정보를 저장하지 않도로 유의
+      데이터베이스가 여러 장소에 같은 정보를 저장하지 않도록 유의
       
    2. 비유연성 (Inflexibility)
    
@@ -103,6 +103,13 @@
    3. 비일관성 (Inconsistency)
    
       데이터 간 상호 연관 관계에 대한 명확한 정의
+      
+ <br>
+ 
+## 4. 데이터 모델링의 3단계 진행
+
+    ![sqlp1](https://user-images.githubusercontent.com/52366841/128974311-935dcbe6-0eb3-4cd2-ad37-4fb343accd69.PNG)
+    
  
 
 
