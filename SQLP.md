@@ -706,6 +706,10 @@
     기본적으로 식별자 관계로 모든 관계가 연결되면서 다음 조건에 해당할 경우 비식별자 관계로 조정하면 됨
     
     ![sqlp11](https://user-images.githubusercontent.com/52366841/129675690-5de41014-3c27-4abe-913b-914297578789.PNG)
+    
+ 2. 식별자와 비식별자 관계 비교
+ 
+ ![sqlp12](https://user-images.githubusercontent.com/52366841/129675866-012a6504-5ab7-4e01-bbe5-909962b12609.PNG)
  
  
 
